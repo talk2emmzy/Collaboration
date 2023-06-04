@@ -1,0 +1,22 @@
+{
+  "name": "cypresstutorial",
+  "version": "1.0.0",
+  "description": "This is a self paced project and everyone is welcome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talk2emmzy/Collaboration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talk2emmzy/Collaboration/issues"
+  },
+  "homepage": "https://github.com/talk2emmzy/Collaboration#readme",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  }
+}
